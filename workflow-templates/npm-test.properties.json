@@ -1,0 +1,11 @@
+
+    "name": "Simple NPM Test workflow",
+    "description": "Workflow to execute npm test command with MongoDB container running in the background",
+    "categories": [
+        "node"
+    ],
+    "filePatterns": [
+        "package.json$",
+        ".*\\.md$"
+    ]
+}
